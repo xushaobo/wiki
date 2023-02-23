@@ -31,3 +31,4 @@ Automatically.
 ## Credit
 
 Scripts are inspired by [DiamondYuan/wiki](https://github.com/DiamondYuan/wiki)
+# wiki
