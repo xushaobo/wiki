@@ -1,6 +1,8 @@
 {
   "description": "Basic client-server edition",
-  "plugins": [],
+      "plugins": [
+        "tiddlywiki/codemirror-keymap-vim"
+      ],
   "themes": [],
   "languages": [],
   "build": {
